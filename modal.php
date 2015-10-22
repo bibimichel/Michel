@@ -9,15 +9,15 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Bathys<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/bathys/bathys-travaux.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/bathys/bathys-equipe.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
                             </div>
                             <div class="col-lg-8"> 
-                                <img src="img/linda.jpg" alt="" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+                                <img src="img/bathys/bathys-responsive.jpg" alt="" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
                             </div>
                         </div><!-- row-->
                         
@@ -46,15 +46,15 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Monde de Noah<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/mondedenoah/mondedenoah-log.png" alt="Monde de Noah logo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/mondedenoah/mondedenoah-velo.jpg" alt="Monde de Noah velo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
                             </div>
                             <div class="col-lg-8"> 
-                                <img src="img/linda.jpg" alt="" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+                                <img src="img/mondedenoah/mondedenoah-responsive.jpg" alt="Monde de Noah responsive" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
                             </div>
                         </div><!-- row-->
                         
@@ -83,15 +83,15 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Monde de Noah<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/mondedenoah/mondedenoah-log.png" alt="Monde de Noah logo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/mondedenoah/mondedenoah-velo.jpg" alt="Monde de Noah velo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
                             </div>
                             <div class="col-lg-8"> 
-                                <img src="img/linda.jpg" alt="" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+                                <img src="img/mondedenoah/mondedenoah-responsive.jpg" alt="Monde de Noah responsive" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
                             </div>
                         </div><!-- row-->
                         
@@ -157,15 +157,15 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Equipe de France<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
-                                <img src="img/my-time-tb.jpg" alt="" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/EDF/edf-logo.png" alt="Equipe de France logo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/EDF/edf-list.jpg" alt="Equipe de France site web" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
                             </div>
                             <div class="col-lg-8"> 
-                                <img src="img/linda.jpg" alt="" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+                                <img src="img/EDF/edf-vintage-phoot.jpg" alt="Equipe de France" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
                             </div>
                         </div><!-- row-->
                         
