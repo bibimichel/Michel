@@ -27,7 +27,7 @@
                         
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <a href="#" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
+                                <a href="http://www.bathys.fr/" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
                             </div>
                         </div><!--row-->
                     </div><!--container-->
@@ -46,15 +46,15 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Monde de Noah<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="img/mondedenoah/mondedenoah-log.png" alt="Monde de Noah logo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
-                                <img src="img/mondedenoah/mondedenoah-velo.jpg" alt="Monde de Noah velo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/inspiration/inspiration-logo.png" alt="Inspiration logo" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/inspiration/inspiration-responsive.jpg" alt="Inspiration responsive" class="img-left img-responsive col-lg-12 col-md-6 col-sm-6 col-xs-12">
                             </div>
                             <div class="col-lg-8"> 
-                                <img src="img/mondedenoah/mondedenoah-responsive.jpg" alt="Monde de Noah responsive" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+                                <img src="img/inspiration/inspiration-theme.jpg" alt="Inspiration theme" class="img-right img-responsive col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
                             </div>
                         </div><!-- row-->
                         
@@ -64,7 +64,7 @@
                         
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <a href="#" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
+                                <a href="http://biljanamichel.fr/lena-blog/" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
                             </div>
                         </div><!--row-->
                     </div><!--container-->
@@ -101,7 +101,7 @@
                         
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <a href="#" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
+                                <a href="http://mondedenoah.eu.pn/" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
                             </div>
                         </div><!--row-->
                     </div><!--container-->
@@ -120,7 +120,7 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Michel photographie<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
@@ -138,7 +138,7 @@
                         
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <a href="#" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
+                                <a href="http://michelphotographie.com" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
                             </div>
                         </div><!--row-->
                     </div><!--container-->
@@ -175,7 +175,7 @@
                         
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <a href="#" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link"></i></a>
+                                <a href="http://biljanamichel.fr/EDF/" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link"></i></a>
                             </div>
                         </div><!--row-->
                     </div><!--container-->
@@ -194,7 +194,7 @@
                 <section id="reference">
                     <div class="container">
                        <div class="row">
-                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>Inspiration<span class="dash">-</span></h2>
+                           <h2 class="col-lg-12 text-center italic"><span class="dash">-</span>La Linda<span class="dash">-</span></h2>
                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
@@ -212,7 +212,7 @@
                         
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <a href="#" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
+                                <a href="http://lalinda.fr" class="btn btn-lg btn-outline hvr-outline-in"><i class="fa fa-link "></i></a>
                             </div>
                         </div><!--row-->
                     </div><!--container-->

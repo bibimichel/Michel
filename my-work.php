@@ -20,9 +20,9 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate voluptas vitae repellat id adipisci beatae illo, molestiae mollitia, laborum sit pariatur fugiat. Qui dicta obcaecati nisi, architecto magni soluta fuga?</p>
                     </li>
                     <li>
-                        <a id="modal02" href="#modal-02" class="portfolio-link"><h3><span class="bold">Monde de Noah : </span><span class="italic">monde de vélos, livres, jeux games... </span></h3></a>
+                        <a id="modal02" href="#modal-02" class="portfolio-link"><h3><span class="bold">Inspiration : </span><span class="italic">printemps, animaux, fleurs... </span></h3></a>
                         
-                        <img src="img/mondedenoah/mondedenoah-intro.jpg" alt="Blog Monde de Noah" class="img-responsive">
+                        <img src="img/inspiration/inspiration-animals.jpg" alt="Blog Monde de Noah" class="img-responsive">
                         
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate voluptas vitae repellat id adipisci beatae illo, molestiae mollitia, laborum sit pariatur fugiat. Qui dicta obcaecati nisi, architecto magni soluta fuga?</p>
                     </li>
@@ -40,7 +40,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate voluptas vitae repellat id adipisci beatae illo, molestiae mollitia, laborum sit pariatur fugiat. Qui dicta obcaecati nisi, architecto magni soluta fuga?</p>
                     </li>
                     <li>
-                        <a id="modal04" href="#modal-04" class="portfolio-link"><h3><span class="bold">EDF : </span><span class="italic">somehing is going wrong and it needs to be fixed</span></h3></a>
+                        <a id="modal04" href="#modal-04" class="portfolio-link"><h3><span class="bold">Michel photographie : </span><span class="italic">somehing is going wrong and it needs to be fixed</span></h3></a>
 
                         <img src="img/my-time-bg.jpg" alt="" class="img-responsive">
 
@@ -59,7 +59,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate voluptas vitae repellat id adipisci beatae illo, molestiae mollitia, laborum sit pariatur fugiat. Qui dicta obcaecati nisi, architecto magni soluta fuga?</p>
                     </li>
                     <li class="col-lg-12 col-md-6 col-sm-6">
-                        <a id="modal06" href="#modal-06" class="portfolio-link"><h3><span class="bold">Michel photographie : </span><span class="italic">somehing is going wrong and it needs</span></h3></a>
+                        <a id="modal06" href="#modal-06" class="portfolio-link"><h3><span class="bold">La Linda : </span><span class="italic">somehing is going wrong and it needs</span></h3></a>
 
                         <img src="img/my-time-bg.jpg" alt="" class="img-responsive">
 
