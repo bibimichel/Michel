@@ -1,0 +1,507 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic);
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html, body{
+    background-color: #000;
+    color: #fff;
+    font-family: "Playfair Display", "monospace", "Sans serif", "serif", "arial";
+    font-size: 16px;
+    height: 100vh;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #000;
+}
+
+.container{
+    width: 98%;
+    max-width: 1280px;
+    margin-top: 25px;
+}
+
+p{
+    margin-top: 25px;
+}
+
+h1{
+    font-size: 4rem;
+}
+    
+    @media screen and (max-width: 950px){
+        h1{
+            font-size: 3rem;
+        }
+    }
+    @media screen and (max-width: 360px){
+        h1{
+            font-size: 2rem;
+        }
+    }
+h2{
+    font-size: 6rem;
+}
+       @media screen and (max-width: 768px){
+        h2{
+            font-size: 4.5rem;
+        }
+    }
+
+ul, li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #ffeb00;
+    transition: 1s;
+}
+a:visited{
+    color: #ffeb00;
+}
+    a:hover,
+    a:focus,
+    a:active{
+        text-decoration: none;
+        color: #fff;
+    }
+
+/********************section and container******************************/
+.container#navigation{
+    border-style: double none;
+    border-color: #fff;
+}
+/******************home page**************************/
+#homegrid{
+    max-width: 1500px;
+    margin: 0 auto;
+}
+#first-row, #second-row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.box-out{
+    background-color: black;
+    color: #fff;
+    display: grid;
+    height: 50vh;
+    vertical-align: baseline;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden;
+    background-position: center center;
+    background-size: cover;
+}
+    #box-out-tl{
+        background-image: url(../img/biljana-michel-web-developer.jpg);
+        border-right: 1px solid #fff;   
+        border-bottom: 1px solid #fff;  
+    }
+    #box-out-bl{
+        background-image: url(../img/my-time-bg.jpg);
+        border-right: 1px solid #fff;   
+        border-bottom: 1px solid #fff;  
+    }
+    #box-out-br{
+        background-image: url(../img/biljana-michel-web-developer-contact.jpg);
+        border-right: 1px solid #fff;   
+        border-bottom: 1px solid #fff;  
+    }
+.box-in{
+    display: relative;
+    height: 95%;
+    width: 95%;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    transition: all .5s;
+}
+     @media screen and (max-height: 768px){
+       .box-in{
+            height: 90%;
+        }
+    }
+     @media screen and (max-height: 320px){
+       .box-in{
+            height: 82%;
+        }
+    }
+    .box-in:hover{
+        border: 1px solid #ffeb00;
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+#box-in-tl, #box-in-bl{
+    margin-left:2.5%;
+}
+#box-in-tl, #box-in-trl{
+    margin-top: 12px;
+}
+.box-in a{
+    margin: 0;
+    position: absolute;
+    right: 10px;
+    bottom : 10px;
+    transform: translate(0%, 10%);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 5rem;
+    transition: .5s;
+}
+            .box-in a:visited{
+            color: #fff;
+    }
+    .box-in a:hover,
+    .box-in a:focus,
+    .box-in a:active{
+        color: #ffeb00;
+    }
+
+        
+           @media screen and (max-width: 992px){
+       .box-in a{
+            font-size: 3.5rem;
+        }
+    }
+
+
+/* Effect 1: Brackets */
+.box h1::before,
+.box h1::after {
+	display: inline-block;
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.2s;
+	-moz-transition: -moz-transform 0.3s, opacity 0.2s;
+	transition: transform 0.3s, opacity 0.2s;
+}
+
+.box h1::before {
+	margin-right: 10px;
+	content: '[';
+	-webkit-transform: translateX(20px);
+	-moz-transform: translateX(20px);
+	transform: translateX(20px);
+}
+
+.box h1::after {
+	margin-left: 10px;
+	content: ']';
+	-webkit-transform: translateX(-20px);
+	-moz-transform: translateX(-20px);
+	transform: translateX(-20px);
+}
+
+.box h1:hover::before,
+.box h1:hover::after,
+.box h1:focus::before,
+.box h1:focus::after {
+	opacity: 1;
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	transform: translateX(0px);
+}*/
+/*********************************************************/
+
+/******************navigation**************************************/
+
+header, .nav, .navbar, .navbar-default{
+    margin: 0 auto;
+    background-color: #000 !important;
+}
+.navbar{
+    padding-top: 2px
+}
+.icon-bar{
+    background-color: #fff;
+}
+.nav-justified{
+    width:100%;
+}
+    .navbar ul li{
+        text-transform: uppercase;
+        letter-spacing: 0.2rem;
+    }
+.navbar ul li a{
+    color:#fff;
+    transition: color 1s;
+}
+    .navbar ul li a:hover,
+    .navbar ul li a:focus,
+    .navbar ul li a:active{
+        color:rgb(255, 235, 0);
+        background: none;
+    }
+
+/* Effect 1: Brackets */
+.navbar ul li a::before,
+.navbar ul li a::after {
+	display: inline-block;
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.2s;
+	-moz-transition: -moz-transform 0.3s, opacity 0.2s;
+	transition: transform 0.3s, opacity 0.2s;
+}
+
+.navbar ul li a::before {
+	margin-right: 10px;
+	content: '[';
+	-webkit-transform: translateX(20px);
+	-moz-transform: translateX(20px);
+	transform: translateX(20px);
+}
+
+.navbar ul li a::after {
+	margin-left: 10px;
+	content: ']';
+	-webkit-transform: translateX(-20px);
+	-moz-transform: translateX(-20px);
+	transform: translateX(-20px);
+}
+
+.navbar ul li a:hover::before,
+.navbar ul li a:hover::after,
+.navbar ul li a:focus::before,
+.navbar ul li a:focus::after {
+	opacity: 1;
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	transform: translateX(0px);
+}
+
+/**********************************************************************/
+
+/*******************about me page************************************/
+
+.container#about-me h2{
+    background-color: #fff;
+    color: #000;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+    z-index: +1;
+}
+
+.container#about-me img{
+    margin-top: -210px;
+    z-index: -1;
+}
+
+    @media screen and (max-width: 992px){
+        .container#about-me img{
+            margin-top: 25px;
+        } 
+    }
+
+
+/**********************************************************************/
+
+/* ==========================================================================
+   my-work
+   ========================================================================== */
+section#my-work h2, section#reference h2, section#my-time h2, section#contact-me h2{
+    padding: 5rem 0;
+}
+     @media screen and (max-width: 768px){
+        section#my-work h2, section#reference h2, section#my-time h2, section#contact-me h2{
+            padding: 1rem 0;
+        }
+    }
+
+section#my-work h3{
+    line-height: 2rem;
+}
+
+section#my-work a, section#my-work p, section#my-work img{
+    margin-top: 25px;
+}
+
+section#my-work p:last-child{
+    padding-bottom: 25px;
+    border-bottom: 1px solid #fff;
+}
+
+/************************************
+ *section modal references
+************************************/
+section#reference{
+    margin-top: 25px;
+}
+section#reference img.img-responsive, section#my-time img.img-responsive  {
+    margin-bottom: 25px;
+}
+    @media screen and (min-width: 1024px){
+        section#reference img.img-left {
+            height: 250px;
+    } 
+        section#reference img.img-right {
+            height: 526px;
+    }
+    }
+
+.btn{
+    background-color: #000;
+    border: 1px solid #fff;
+    border-radius: 0;
+    color: #ffeb00;
+    padding: 15px 50px;
+    text-transform: uppercase;
+    font-size: 2rem;
+    transition: .5s;
+}
+.btn:hover, .btn:focus, .btn.focus{
+    color: #fff;
+}
+.hvr-outline-in:active:before, .hvr-outline-in:focus:before, .hvr-outline-in:hover:before {
+    top: -6px !important;
+    right: -6px !important;
+    bottom: -6px !important;
+    left: -6px !important;
+    opacity: 1;
+}
+.hvr-outline-in:before{
+    border: solid 2px #fff !important;
+}
+
+section#reference p:last-child{
+    margin-bottom: 25px;
+}
+
+
+/************************************
+ * modal Close button
+************************************/
+.modal-content{
+    width: 100%;
+    background-color: #000;
+    border-radius: 0;
+    padding-bottom: 50px;
+}
+
+#closebt-container {
+	text-align:center;
+	margin-top: 50px;
+}
+
+.closebt {
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+	cursor:pointer;
+}
+
+.closebt:hover {
+	transform:rotate(90deg);
+}
+
+/************************************
+ * contact-me
+************************************/
+blockquote{
+    font-size: 2rem;
+    margin-bottom: 7rem;
+}
+
+
+
+/************************************
+ * form
+************************************/
+
+.form-control{
+    border-radius: 0;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: #000;
+    height: 80px;
+    text-transform: uppercase;
+    padding-top: 0;
+    color: #fff;
+    font-size: 2rem;
+    font-family: "Playfair Display";
+    transition: all 1s;
+
+}
+.form-control:focus{
+    color: #ffeb00;
+    border-left: 1px solid #ffeb00;
+    border-right: 1px solid #ffeb00;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: none;
+}
+
+placeholder{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+textarea.form-control{
+    height: 150px;
+}
+
+/************************************
+ * footer
+************************************/
+footer p{
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+ul.social-icons{
+    margin: auto 0;
+    text-align: center;
+}
+
+.social-icons li{
+    display: inline-block;
+    padding-right: 1rem;
+}
+    .social-icons li a:hover,
+    social-icons li a:active,
+    social-icons li a:focus{
+        background: none;
+        color: #ffeb00;
+    }
+.social-icons li a{
+    color: #fff;
+}
+    .social-icons li a:visited{
+        color: #fff;
+    }
+    .social-icons li a:hover,
+    .social-icons li a:focus,
+    .social-icons li a:active{
+        color: #ffeb00;
+    }
+
+    
+/***************other usefull stuffs**************************/
+
+.list-no-style{
+    list-style: none;
+}
+.dash{
+    margin: 0 1rem;
+}
+.bold{
+    font-weight: 700;
+}
+.bold-italic{
+    font-weight: bold;
+    font-style: italic;
+}
+.italic{
+    font-weight: 400;
+    font-style: italic;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+
+
+
+
+
